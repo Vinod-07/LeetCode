@@ -26,3 +26,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vinod-07/LeetCode/tree/master/0231-power-of-two) |
+# Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vinod-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+# Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vinod-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
