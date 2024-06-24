@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinod-07/LeetCode/tree/master/0022-generate-parentheses) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Vinod-07/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vinod-07/LeetCode/tree/master/0231-power-of-two) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Vinod-07/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vinod-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Vinod-07/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/Vinod-07/LeetCode/tree/master/1755-defuse-the-bomb) |
