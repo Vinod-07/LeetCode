@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinod-07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0344-reverse-string](https://github.com/Vinod-07/LeetCode/tree/master/0344-reverse-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vinod-07/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3194-find-words-containing-character](https://github.com/Vinod-07/LeetCode/tree/master/3194-find-words-containing-character) |
 # Dynamic Programming
@@ -42,3 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vinod-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vinod-07/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/Vinod-07/LeetCode/tree/master/1755-defuse-the-bomb) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Vinod-07/LeetCode/tree/master/0344-reverse-string) |
