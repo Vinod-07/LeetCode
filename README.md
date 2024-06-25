@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vinod-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Vinod-07/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinod-07/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Vinod-07/LeetCode/tree/master/3194-find-words-containing-character) |
 # Sliding Window
 |  |
