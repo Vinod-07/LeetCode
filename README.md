@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vinod-07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Vinod-07/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Vinod-07/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Vinod-07/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vinod-07/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3194-find-words-containing-character](https://github.com/Vinod-07/LeetCode/tree/master/3194-find-words-containing-character) |
 # Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vinod-07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0841-shortest-distance-to-a-character](https://github.com/Vinod-07/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1755-defuse-the-bomb](https://github.com/Vinod-07/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinod-07/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Vinod-07/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -49,3 +51,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Vinod-07/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Vinod-07/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Vinod-07/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
