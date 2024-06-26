@@ -9,14 +9,11 @@ class Solution {
                 j += 2;
             }
             if (i < n && j < n) {
-                swap(nums, i, j);
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
             }
         }
         return nums;
-    }
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
