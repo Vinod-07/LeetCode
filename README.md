@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Vinod-07/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vinod-07/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/Vinod-07/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1755-defuse-the-bomb](https://github.com/Vinod-07/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinod-07/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Vinod-07/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -64,8 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Vinod-07/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vinod-07/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/Vinod-07/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 # Sorting
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Vinod-07/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vinod-07/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+# Binary Search
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
