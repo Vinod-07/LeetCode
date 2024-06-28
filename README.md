@@ -94,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+## Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Vinod-07/LeetCode/tree/master/1448-maximum-69-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Vinod-07/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
