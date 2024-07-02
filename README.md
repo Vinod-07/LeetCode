@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Vinod-07/LeetCode/tree/master/0605-can-place-flowers) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vinod-07/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinod-07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Vinod-07/LeetCode/tree/master/0605-can-place-flowers) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vinod-07/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/Vinod-07/LeetCode/tree/master/1448-maximum-69-number) |
 ## Hash Table
 |  |
