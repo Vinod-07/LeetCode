@@ -6,8 +6,10 @@ class Solution {
         for(int i = 0; i<arr.length;i++){
             sum+=arr[i];
         }
-        if(sum%3 == 0){
-            // int sumDiv = sum/3;
+        if(sum%3 != 0){
+            return false;
+        }
+        // int tempSum = sum/3;
             for(int i = 0; i < arr.length; i++){
                  sum1 += arr[i];
                 if(sum1 == sum/3){
@@ -16,10 +18,6 @@ class Solution {
                 }
 
             }
-        }
-        else{
-            return false;
-        }
         return count>=3;
     }
 }
