@@ -115,11 +115,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinod-07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
