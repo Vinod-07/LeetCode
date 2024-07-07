@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Vinod-07/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Vinod-07/LeetCode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/Vinod-07/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vinod-07/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinod-07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vinod-07/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Vinod-07/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinod-07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vinod-07/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Vinod-07/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vinod-07/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Vinod-07/LeetCode/tree/master/1448-maximum-69-number) |
 ## Greedy
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Vinod-07/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Vinod-07/LeetCode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/Vinod-07/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Vinod-07/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vinod-07/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Vinod-07/LeetCode/tree/master/1448-maximum-69-number) |
