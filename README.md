@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinod-07/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vinod-07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
