@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Vinod-07/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Vinod-07/LeetCode/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/Vinod-07/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vinod-07/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Vinod-07/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Vinod-07/LeetCode/tree/master/0412-fizz-buzz) |
