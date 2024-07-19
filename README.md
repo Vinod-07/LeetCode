@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vinod-07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/Vinod-07/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vinod-07/LeetCode/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vinod-07/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
