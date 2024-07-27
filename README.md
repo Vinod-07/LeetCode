@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Vinod-07/LeetCode/tree/master/0278-first-bad-version) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vinod-07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vinod-07/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
