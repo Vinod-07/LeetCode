@@ -11,8 +11,8 @@ class Solution {
             }
         }
 
-        for(int val : map.setValue()){
-            if(val >= (nums.length/3)){
+        for(int val : map.keySet()){
+            if(map.get(val) > (nums.length/3)){
                 list.add(val);
             }
         } 
