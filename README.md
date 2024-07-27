@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vinod-07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vinod-07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vinod-07/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Vinod-07/LeetCode/tree/master/0605-can-place-flowers) |
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinod-07/LeetCode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vinod-07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vinod-07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
