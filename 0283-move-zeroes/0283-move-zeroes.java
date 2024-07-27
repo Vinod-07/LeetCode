@@ -23,9 +23,10 @@ class Solution {
         int s = 0, e = 1;
         while(e<nums.length){
             if(nums[s] == 0 && nums[e] != 0){
-                int temp = nums[s];
-                nums[s] = nums[e];
-                nums[e] = temp;
+                swap(nums[s], nums[e]);
+                // int temp = nums[s];
+                // nums[s] = nums[e];
+                // nums[e] = temp;
                 s++;
                 e++;
             }
@@ -38,9 +39,10 @@ class Solution {
             }
         }
     }
-    // public void swap(int a, int b){
-    //     int temp = a;
-    //     a = b;
-    //     b = temp;
-    // }
+    public int swap(int a, int b){
+        int temp = a;
+        a = b;
+        b = temp;
+        return int[] {a,b};
+    }
 }
