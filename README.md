@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Vinod-07/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Vinod-07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vinod-07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vinod-07/LeetCode/tree/master/0455-assign-cookies) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Vinod-07/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Vinod-07/LeetCode/tree/master/0455-assign-cookies) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
