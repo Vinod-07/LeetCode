@@ -21,11 +21,11 @@ class Solution {
             return;
         }
         int s = 0, e = 1;
-        while(s<e){
+        while(e<nums.length){
             if(nums[s] == 0 && nums[e] != 0){
-                int temp = s;
-                s = e;
-                e = temp;
+                int temp = nums[s];
+                nums[s] = nums[e];
+                nums[e] = temp;
                 s++;
                 e++;
             }
