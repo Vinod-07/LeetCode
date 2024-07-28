@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vinod-07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vinod-07/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vinod-07/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vinod-07/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 ## Two Pointers
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vinod-07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Vinod-07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vinod-07/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Interactive
 |  |
 | ------- |
