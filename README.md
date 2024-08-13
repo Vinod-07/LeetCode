@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Vinod-07/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0482-license-key-formatting](https://github.com/Vinod-07/LeetCode/tree/master/0482-license-key-formatting) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinod-07/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vinod-07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
