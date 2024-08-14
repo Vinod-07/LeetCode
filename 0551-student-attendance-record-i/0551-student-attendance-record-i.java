@@ -35,10 +35,6 @@ class Solution {
                 a++;
             }
         }
-        if(a >= 2){
-            return false;
-        }
-        else
-        return true;
+        return (a < 2) ? true : false;
     }
 }
