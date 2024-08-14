@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vinod-07/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Vinod-07/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Vinod-07/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/Vinod-07/LeetCode/tree/master/0742-to-lower-case) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinod-07/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vinod-07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
