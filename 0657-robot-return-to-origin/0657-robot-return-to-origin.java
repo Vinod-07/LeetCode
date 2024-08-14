@@ -16,7 +16,7 @@ class Solution {
             else if(a == 'U'){
                 ud++;
             }
-            else if(a == 'D'){
+            else{
                 ud--;
             }
         }
