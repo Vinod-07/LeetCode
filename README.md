@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Vinod-07/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Vinod-07/LeetCode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Vinod-07/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vinod-07/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinod-07/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
