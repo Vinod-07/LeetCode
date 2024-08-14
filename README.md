@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinod-07/LeetCode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Vinod-07/LeetCode/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/Vinod-07/LeetCode/tree/master/0605-can-place-flowers) |
+| [0822-unique-morse-code-words](https://github.com/Vinod-07/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/Vinod-07/LeetCode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Vinod-07/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vinod-07/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Vinod-07/LeetCode/tree/master/0500-keyboard-row) |
+| [0822-unique-morse-code-words](https://github.com/Vinod-07/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1256-rank-transform-of-an-array](https://github.com/Vinod-07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vinod-07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Vinod-07/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Vinod-07/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Vinod-07/LeetCode/tree/master/0742-to-lower-case) |
+| [0822-unique-morse-code-words](https://github.com/Vinod-07/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinod-07/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vinod-07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
