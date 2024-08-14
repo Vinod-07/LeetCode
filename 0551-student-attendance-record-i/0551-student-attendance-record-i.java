@@ -34,7 +34,10 @@ class Solution {
             if(x == 'A'){
                 a++;
             }
+            if(a >= 2){
+                return false;
+            }
         }
-        return (a < 2) ? true : false;
+        return true;
     }
 }
