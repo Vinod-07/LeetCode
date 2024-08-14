@@ -10,13 +10,13 @@ class Solution {
             if(a == 'L'){
                 lr++;
             }
-            if(a == 'R'){
+            else if(a == 'R'){
                 lr--;
             }
-            if(a == 'U'){
+            else if(a == 'U'){
                 ud++;
             }
-            if(a == 'D'){
+            else if(a == 'D'){
                 ud--;
             }
         }
