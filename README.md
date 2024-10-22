@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinod-07/LeetCode/tree/master/0455-assign-cookies) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/Vinod-07/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/Vinod-07/LeetCode/tree/master/0851-goat-latin) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Vinod-07/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1894-merge-strings-alternately](https://github.com/Vinod-07/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vinod-07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
