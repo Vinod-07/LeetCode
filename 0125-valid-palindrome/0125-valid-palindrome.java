@@ -1,29 +1,27 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int first = 0;
-        int last = s.length() - 1;
-        char start = s.charAt(first);
-        char end = s.charAt(last);
-        while(first < last){
-            if(Alphanumeric(start)){
-                if(Alphanumeric(end)){
-                    if(toUpperCase(start) != toUpperCase(end)){
+        int first = 0, last = s.length() - 1;
+        while (first < last) {
+            char f = s.charAt(first);
+            char l = s.charAt(last);
+            if (isAlphanumeric(f)) {
+                if (isAlphanumeric(l)){
+                    if (toUpperCase(f) != toUpperCase(l)) {
                         return false;
+                    } else {
+                        first++; last--;
                     }
-                    else{
-                    first++;
+                } else {
                     last--;
-                    }                    
                 }
-                else
-                last--;                
+            } else {
+                first++;
             }
-            else
-            first++;
         }
         return true;
     }
-    boolean Alphanumeric(char c){
+
+    boolean isAlphanumeric(char c) {
         if (c >= 'a' && c <= 'z') {
             return true;
         }
@@ -42,4 +40,6 @@ class Solution {
         }
         return c;
     }
+
+
 }
