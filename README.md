@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vinod-07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Vinod-07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vinod-07/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Vinod-07/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Vinod-07/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Vinod-07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vinod-07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vinod-07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinod-07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vinod-07/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Vinod-07/LeetCode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Vinod-07/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Vinod-07/LeetCode/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/Vinod-07/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vinod-07/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Vinod-07/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
