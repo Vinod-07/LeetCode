@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinod-07/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Vinod-07/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vinod-07/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vinod-07/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Vinod-07/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vinod-07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinod-07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vinod-07/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Vinod-07/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vinod-07/LeetCode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vinod-07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
@@ -321,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Vinod-07/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vinod-07/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
