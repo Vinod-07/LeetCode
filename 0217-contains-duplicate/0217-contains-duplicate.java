@@ -4,6 +4,6 @@ class Solution {
         for(int i = 0; i < nums.length; i++){
             set.add(nums[i]);
         }
-        return set.size() != nums.length;
+        return nums.length != set.size();
     }
 }
