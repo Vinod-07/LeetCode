@@ -335,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Vinod-07/LeetCode/tree/master/2083-three-divisors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vinod-07/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
