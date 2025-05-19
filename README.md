@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vinod-07/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Vinod-07/LeetCode/tree/master/1448-maximum-69-number) |
 | [2083-three-divisors](https://github.com/Vinod-07/LeetCode/tree/master/2083-three-divisors) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Vinod-07/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Greedy
 |  |
 | ------- |
