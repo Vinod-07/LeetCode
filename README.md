@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinod-07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vinod-07/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vinod-07/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Vinod-07/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vinod-07/LeetCode/tree/master/0455-assign-cookies) |
 | [0979-di-string-match](https://github.com/Vinod-07/LeetCode/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vinod-07/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vinod-07/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Vinod-07/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Vinod-07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Vinod-07/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Vinod-07/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinod-07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinod-07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vinod-07/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Vinod-07/LeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
