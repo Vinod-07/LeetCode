@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinod-07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Vinod-07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vinod-07/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vinod-07/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vinod-07/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2714-left-and-right-sum-differences](https://github.com/Vinod-07/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
